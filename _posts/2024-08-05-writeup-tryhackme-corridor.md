@@ -2,7 +2,7 @@
 title: "TryHackMe - Corridor"
 author: Kaio Gerhardt
 description: ""
-date: 2022-02-20 10:00:00 +0000
+date: 2024-08-05 10:00:00 +0000
 categories : [Write-Ups, TryHackMe]
 tags: [tryhackme, idor, web, ctf]
 ---

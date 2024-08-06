@@ -2,7 +2,7 @@
 title: "Como o Docker funciona por baixo dos panos"
 author: Kaio Gerhardt
 description: ""
-date: 2022-02-20 10:00:00 +0000
+date: 2024-02-20 10:00:00 +0000
 categories : [Artigo]
 tags: [docker, linux, DevOps, containers]
 ---
