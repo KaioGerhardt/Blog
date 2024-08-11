@@ -44,34 +44,17 @@ This website serves as a repository for my journey, featuring detailed walkthrou
 
 <h1 align="center">Certificados</h1>
 
-<div style="display: flex;">
-    <a href="https://www.credly.com/badges/a187a90f-fe1a-4676-bbe5-874e042dc5f6/public_url" target="_blank"><img src="/assets/img/certificados/certiprof-scrum.png" alt="" width="300" height="150" style="margin-right: 10px;"></a>
-    <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/64748/3c946c9d3ad78ae34be3468fb1960647/certificado.png" target="_blank"><img src="/assets/img/certificados/certificado-fiap.png" alt="" width="300" height="150" style="margin-right: 10px;"></a>
-    <img src="/assets/img/certs/winprivesc.png" alt="windows privilege escalation" width="300" height="150" style="margin-right: 10px;">
+<div style="display: flex; justify-content: space-between;">
+    <img src="/assets/img/certificados/certiprof-scrum.png" alt="" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
+    <img src="/assets/img/certificados/certificado-fiap.png" alt="" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
+    <img src="/assets/img/certificados/certificado-doit.png" alt="windows privilege escalation" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
 </div>
 
-
-<!-- <div style="display: flex;">
-<img src="/assets/img/certs/compbe.png" alt="complete beginner" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/intro.png" alt="intro to cybersec" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/presec.png" alt="pre security" width="300" height="150">
+<div style="display: flex; justify-content: space-between;">
+    <img src="/assets/img/certificados/certificado-fgv.png" alt="windows privilege escalation" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
+    <img src="/assets/img/certificados/certificado-docker.jpg" alt="" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
+    <img src="/assets/img/certificados/certificado-fund-redes.jpg" alt="windows privilege escalation" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
 </div>
-
-<div style="display: flex;">
-<img src="/assets/img/certs/aoc20.png" alt="aoc1" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/aoc21.png" alt="aoc2" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/aoc22.png" alt="aoc3" width="300" height="150">
-</div>
-
-<div style="display: flex;">
-<img src="/assets/img/certs/jrpentester.png" alt="jr pentester" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/webfun.png" alt="web fundamentals" width="300" height="150" style="margin-right: 10px;">
-<img src="/assets/img/certs/pentest.png" alt="pentes +" width="300" height="150">
-</div>
-
-<div style="display: flex;">
-<img src="https://assets.tryhackme.com/room-badges/3e7a5561b259548fb40549e1c9efae15.png" alt="100 days steak" width="300" height="150" style="margin-right: 10px;">
-</div> -->
 
 <!-- <h1 align="center">Connect with me</h1>
 <p align="center">
