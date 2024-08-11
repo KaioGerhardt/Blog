@@ -56,6 +56,7 @@ This website serves as a repository for my journey, featuring detailed walkthrou
     <img src="/assets/img/certificados/certificado-fund-redes.jpg" alt="windows privilege escalation" style="max-width: 300px; max-height: 150px; object-fit: contain; margin-right: 10px;">
 </div>
 
+
 <!-- <h1 align="center">Connect with me</h1>
 <p align="center">
 <a href="https://twitter.com/nasrallahbaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="50" width="50" /></a>
